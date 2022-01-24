@@ -1,5 +1,5 @@
 # SI-GuidedProject-7161-1640580918
-# Pathology Image Analysis For Lung Cancer Prediction Using IBM Watson
+## Project Title - Pathology Image Analysis For Lung Cancer Prediction Using IBM Watson
 
  
 The main objective of this project is to detect whether the tumor present in a patient’s lung is malignant or benign using Convolution Neural Network (CNN)
